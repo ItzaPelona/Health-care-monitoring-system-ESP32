@@ -1,0 +1,10 @@
+CMake Error at C:/Users/alang/esp/v5.4.1/esp-idf/tools/cmake/build.cmake:318 (message):
+  Failed to resolve component 'esp32-owb' required by component
+  'esp32-ds18b20': unknown name.
+Call Stack (most recent call first):
+  C:/Users/alang/esp/v5.4.1/esp-idf/tools/cmake/build.cmake:367 (__build_resolve_and_add_req)
+  C:/Users/alang/esp/v5.4.1/esp-idf/tools/cmake/build.cmake:665 (__build_expand_requirements)
+  C:/Users/alang/esp/v5.4.1/esp-idf/tools/cmake/project.cmake:717 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
